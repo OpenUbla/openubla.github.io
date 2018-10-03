@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: OpenUbla
+description: Open source and a distributed cloud for offering taxi and ride sharing service. OpenUbla will be an open initiative to facilitate human taxi drivers, not bots.
+logo: https://avatars2.githubusercontent.com/u/43815268?s=200&v=4
+show_downloads: false
