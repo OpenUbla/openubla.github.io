@@ -7,6 +7,12 @@ OpenUbla would be operating on SAAS based model and would be maintained as a com
 ### Follow our discussions here
 > https://github.com/OpenUbla/discussions
 
+### Join our Hangouts Group
+> https://hangouts.google.com/group/4vhVayTqeyLTfFUH2
+
+### Join our WhatsApp Group
+> https://chat.whatsapp.com/DntV5MFhuxyDmenhFOBtlg
+
 ### Intrested in contributing to OpenUbla
 
 Write to me at Ramsundhar (ramsundhar20@gmail.com)
